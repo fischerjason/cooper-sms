@@ -10,7 +10,7 @@ Cooper may process the mobile phone number of the authorized user and the conten
 
 ## SMS Data
 
-Mobile phone information, SMS opt-in information, and consent records are not sold, rented, or shared with third parties for marketing or promotional purposes.
+We do not sell or share your SMS opt-in data or personal information with third parties for marketing purposes.
 
 Information may be processed by service providers necessary to deliver the service, such as telecommunications and technology providers.
 

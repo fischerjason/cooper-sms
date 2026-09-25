@@ -6,7 +6,7 @@ Cooper does not offer public SMS enrollment, bulk subscriber messaging, advertis
 
 ## How Consent Is Provided
 
-The Cooper owner and administrator explicitly enables SMS functionality and configures an authorized mobile number within the Cooper outbound messaging system.
+The Cooper owner/administrator explicitly enables SMS functionality and configures their authorized mobile number within the Cooper outbound messaging system.
 
 Additional recipients may be added only after they provide explicit verbal consent directly to the Cooper administrator.
 
@@ -18,7 +18,7 @@ Cooper does not offer public SMS enrollment or keyword-based opt-in. SMS access 
 
 ## Verbal Consent Process
 
-Verbal consent is obtained directly between the prospective recipient and the Cooper administrator before the recipient's mobile number is entered into Cooper.
+Verbal consent is obtained during a direct one-to-one conversation between the prospective recipient and the Cooper administrator, either in person or by telephone, before the recipient’s mobile number is entered into Cooper.
 
 The administrator uses the following consent disclosure:
 
@@ -36,7 +36,7 @@ After a recipient provides affirmative consent and their mobile number is added 
 
 Example enrollment confirmation:
 
-"Cooper AI Assistant: You are enrolled to receive Cooper informational SMS notifications. Message frequency varies. Message and data rates may apply. Reply HELP for assistance or STOP to opt out. Terms: https://fischerjason.github.io/cooper-sms/terms.html Privacy: https://fischerjason.github.io/cooper-sms/privacy.html"
+Cooper AI Assistant: You are enrolled to receive Cooper informational SMS notifications. Message frequency varies. Message and data rates may apply. Reply HELP for assistance or STOP to opt out. Terms: https://fischerjason.github.io/cooper-sms/terms.html Privacy: https://fischerjason.github.io/cooper-sms/privacy.html
 
 SMS messages are not sent to an additional recipient before consent has been obtained.
 

@@ -45,7 +45,7 @@ The recipient must provide an affirmative response, such as "yes," before the mo
 
 Recipients who do not provide affirmative consent are not enrolled and do not receive Cooper SMS messages.
 
-After consent is provided and the mobile number is enrolled, Cooper sends an enrollment confirmation identifying the Cooper SMS program and providing information about message frequency, possible message and data rates, HELP and STOP instructions, and a link to the Cooper Privacy Policy.
+After consent is provided and the mobile number is enrolled, Cooper sends an enrollment confirmation identifying the Cooper SMS program and providing information about message frequency, possible message and data rates, HELP and STOP instructions, and links to the Cooper SMS Terms & Conditions and Cooper Privacy Policy.
 
 Consent to receive Cooper SMS messages is voluntary and may be withdrawn at any time.
 
@@ -95,7 +95,7 @@ for assistance with the Cooper SMS program.
 
 HELP responses may provide information about the Cooper messaging program, opt-out instructions, or other support information.
 
-Questions regarding Cooper SMS messaging may also be submitted through the Cooper SMS project's GitHub repository.
+Questions regarding Cooper SMS messaging may also be submitted through the Cooper SMS project's GitHub repository (https://github.com/fischerjason/cooper-sms/issues).
 
 ## Privacy
 

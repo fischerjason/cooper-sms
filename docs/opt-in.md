@@ -14,7 +14,7 @@ Before an additional recipient is enrolled, the administrator explains the Coope
 
 A recipient who does not provide affirmative consent is not enrolled and will not receive Cooper SMS messages.
 
-There is no public signup form and no keyword-based opt-in process for this campaign.
+Cooper does not offer public SMS enrollment or keyword-based opt-in. SMS access is limited to specifically authorized recipients who have completed the applicable consent process.
 
 ## Verbal Consent Process
 

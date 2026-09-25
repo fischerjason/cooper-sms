@@ -1,29 +1,35 @@
-# Cooper Privacy Policy
+# Privacy Policy
 
-**Last updated: September 16, 2026**
+Last updated: September 25, 2026
 
-Cooper is a private personal AI assistant operated for the personal use of its owner. SMS messaging is not offered as a public service and is not used for advertising or marketing.
+Cooper is a privately operated AI assistant, automation, and notification system operated by its owner and administrator. Cooper is not offered as a public SMS messaging service and does not use SMS for advertising, marketing, lead generation, or third-party promotional messaging.
 
 ## Information Collected
 
-Cooper may process the mobile phone number of the authorized user and the contents of SMS messages sent to or received from Cooper. This information is used solely to provide the requested personal AI assistant functionality, including conversational responses, reminders, notifications, and alerts.
+Cooper may process the mobile phone numbers of its owner, administrator, and other specifically authorized recipients, as well as the contents of SMS messages sent to or received from Cooper.
 
-## SMS Data
+This information is used only to provide Cooper functionality requested or configured by authorized recipients, including conversational responses, reminders, notifications, alerts, task results, system events, monitored-condition updates, and other operational notifications.
 
-We do not sell or share your SMS opt-in data or personal information with third parties for marketing purposes.
+## SMS Data and Privacy
 
-Information may be processed by service providers necessary to deliver the service, such as telecommunications and technology providers.
+We do not sell, share, rent, or provide mobile phone numbers, SMS opt-in data, or messaging consent information to third parties or affiliates for marketing or promotional purposes.
+
+Information may be processed by telecommunications, hosting, artificial-intelligence, and other technology service providers only as necessary to operate and deliver Cooper functionality. These service providers are not authorized to use mobile information or SMS consent information for their own marketing or promotional purposes.
 
 ## Messaging Consent
 
-SMS messaging is limited to an explicitly authorized mobile number configured by the owner. Consent to receive SMS messages may be withdrawn at any time by replying STOP.
+The Cooper SMS program is limited to the owner, administrator, and other specifically authorized recipients.
 
-For assistance, reply HELP.
+Additional recipients must explicitly consent to receive SMS messages from Cooper before their mobile number is added to the system. Consent may be provided verbally. Messaging consent is voluntary and may be withdrawn at any time by replying STOP.
+
+Message frequency varies based on system activity, requested notifications, configured automations, reminders, and monitored events. Message and data rates may apply.
+
+Reply HELP for assistance or STOP to opt out.
 
 ## Data Use
 
-Information processed by Cooper is used only to operate, maintain, secure, and improve the owner's personal AI assistant.
+Information processed by Cooper is used only to operate, maintain, secure, and improve the Cooper AI assistant, automation, and notification system and to provide functionality requested or configured by authorized recipients.
 
 ## Contact
 
-Questions regarding this privacy policy may be submitted through the Cooper SMS project's GitHub repository.
+Questions regarding this Privacy Policy or the Cooper SMS program may be submitted through the Cooper SMS project's GitHub repository.

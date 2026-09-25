@@ -1,43 +1,49 @@
 # Cooper SMS Terms & Conditions
 
-**Last updated: September 16, 2026**
+Last updated: September 25, 2026
 
-Cooper is a private personal AI assistant operated for the personal use of its owner. The SMS service is not offered to the general public.
+Cooper is a privately operated AI assistant, automation, and notification system operated by its owner and administrator. The Cooper SMS program is available only to the owner, administrator, and other specifically authorized recipients and is not offered as a public messaging service.
 
-## SMS Service
+## SMS Program
 
-Cooper may send conversational responses, requested notifications, reminders, and alerts to an explicitly authorized mobile number.
+Cooper may send informational and event-driven SMS messages including conversational responses, reminders, scheduled notifications, system and integration alerts, device status, monitored-condition updates, task results, and other configured operational notifications.
 
-Message frequency varies based on user interaction, requested reminders, notifications, and alerts.
-
-Message and data rates may apply.
+Cooper does not send advertising, marketing, lead-generation, or third-party promotional messages.
 
 ## Consent
 
-SMS access is limited to a mobile number explicitly authorized by the owner. The authorized user consents to receive messages from Cooper at that number.
+Additional recipients must explicitly consent to receive SMS messages from Cooper before their mobile number is added to the system by the administrator. Consent may be provided verbally.
 
-Consent to receive SMS messages is not a condition of purchasing any goods or services.
+Consent to receive SMS messages is voluntary and is not a condition of purchasing goods or services.
+
+After enrollment, recipients receive confirmation of their participation in the Cooper SMS program.
+
+## Message Frequency and Charges
+
+Message frequency varies based on user interaction, system activity, requested reminders and notifications, configured automations, and monitored events.
+
+Message and data rates may apply.
 
 ## Opt Out
 
-Reply **STOP** to stop receiving SMS messages from Cooper.
+**Reply STOP to opt out of Cooper SMS messages at any time.**
 
-After opting out, no additional SMS messages will be sent unless messaging is subsequently re-enabled and consent is provided again.
+After opting out, no additional SMS messages will be sent unless the recipient subsequently provides consent and messaging is re-enabled.
 
 ## Help
 
-Reply **HELP** for assistance.
+**Reply HELP for assistance.**
+
+Additional questions regarding Cooper SMS may be submitted through the Cooper SMS project's GitHub repository.
 
 ## Privacy
 
 Information associated with Cooper SMS messaging is handled according to the Cooper Privacy Policy.
 
-Mobile information and SMS consent information are not sold or shared with third parties for marketing or promotional purposes.
+Mobile phone numbers, SMS opt-in data, and messaging consent information are not sold, shared, rented, or provided to third parties or affiliates for marketing or promotional purposes.
 
-## Availability
+## Message Delivery
 
-Cooper is a personal experimental software system. SMS delivery and AI-generated responses may be delayed, unavailable, or inaccurate. The service should not be relied upon for emergency communications.
+Carriers are not liable for any delayed or undelivered messages.
 
-## Contact
-
-Questions regarding these terms may be submitted through the Cooper SMS project's GitHub repository.
+SMS delivery is subject to carrier and network availability. Cooper is a personal software system, and SMS delivery or AI-generated responses may occasionally be delayed, unavailable, or inaccurate. Cooper should not be relied upon for emergency communications.

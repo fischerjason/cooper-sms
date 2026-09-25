@@ -30,6 +30,10 @@ Reply HELP for assistance or STOP to opt out.
 
 Information processed by Cooper is used only to operate, maintain, secure, and improve the Cooper AI assistant, automation, and notification system and to provide functionality requested or configured by authorized recipients.
 
+## SMS Terms & Conditions
+
+Use of Cooper SMS messaging is governed by the Cooper SMS Terms & Conditions https://fischerjason.github.io/cooper-sms/terms.html?utm_source=chatgpt.com.
+
 ## Contact
 
 Questions regarding this Privacy Policy or the Cooper SMS program may be submitted through the Cooper SMS project's GitHub repository.

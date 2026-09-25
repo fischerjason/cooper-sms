@@ -22,7 +22,7 @@ Verbal consent is obtained during a direct one-to-one conversation between the p
 
 The administrator uses the following consent disclosure:
 
-"Cooper is a private AI assistant, automation, and notification system. Cooper can send you informational SMS messages such as reminders, alerts, task results, monitored-condition updates, device or system notifications, and other notifications configured for you. Message frequency varies depending on your configured notifications and system activity. Message and data rates may apply. You can reply HELP for assistance or STOP at any time to stop receiving messages. The Cooper Terms and Conditions are available at https://fischerjason.github.io/cooper-sms/terms.html and the Cooper Privacy Policy is available at https://fischerjason.github.io/cooper-sms/privacy.html. Do you agree to receive SMS messages from Cooper? Please answer yes or no."
+"Cooper is a private AI assistant, automation, and notification system. Cooper can send you informational SMS messages such as reminders, alerts, task results, monitored-condition updates, device or system notifications, and other notifications configured for you. Message frequency varies depending on your configured notifications and system activity. Message and data rates may apply. You can reply HELP for assistance or STOP at any time to stop receiving messages. The Cooper Terms and Conditions are available at [https://fischerjason.github.io/cooper-sms/terms.html] and the Cooper Privacy Policy is available at [https://fischerjason.github.io/cooper-sms/privacy.html]. Do you agree to receive SMS messages from Cooper? Please answer yes or no."
 
 The recipient must provide an affirmative response, such as "yes," before enrollment occurs.
 

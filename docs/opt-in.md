@@ -1,45 +1,57 @@
 # Cooper SMS Opt-In Process
 
-Cooper is a private personal AI assistant. SMS access is not offered to the general public.
+Cooper is a private automation and notification system used only by its owner and administrator. SMS enrollment is not offered to the general public.
 
 ## How Consent Is Provided
 
-The owner explicitly authorizes a mobile phone number in Cooper's SMS configuration before that number is permitted to interact with the assistant.
+The owner explicitly chooses to enable SMS notifications and manually adds their own mobile phone number to Cooper's authorized outbound SMS allowlist.
 
-Only explicitly authorized numbers are accepted by the SMS interface. Unrecognized phone numbers are not authorized to use Cooper.
+A phone number is not added to the allowlist until the owner has affirmatively chosen to receive SMS notifications from Cooper.
 
-The authorized user may then initiate a conversation by sending an SMS message to the Cooper phone number.
+Cooper will only send SMS messages to telephone numbers explicitly authorized in this configuration. Numbers that are not authorized are rejected by the outbound messaging system.
+
+There is no public signup form and no keyword-based opt-in for this campaign.
 
 ## Authorized Recipient Configuration
 
-Cooper maintains an allowlist containing the mobile number permitted to use the SMS interface.
+Cooper maintains an outbound SMS allowlist containing the mobile numbers that have explicitly opted in.
 
-Example configuration:
+Example sanitized configuration:
 
-    SMS_ALLOWED_USERS=+1XXXXXXXXXX
-    SMS_HOME_CHANNEL=+1XXXXXXXXXX
+COOPER_OUTBOUND_ALLOWED_NUMBERS=+1XXXXXXXXXX
 
-The example above is intentionally redacted. The production configuration contains the owner's authorized mobile number.
+The example above is intentionally redacted. The production configuration contains the owner's explicitly authorized mobile number.
+
+The owner is currently the sole SMS recipient.
 
 ## Types of Messages
 
-After authorization, Cooper may send:
+After SMS notifications are enabled, Cooper may send:
 
-- Conversational responses to messages initiated by the authorized user
-- Reminders requested by the authorized user
-- Notifications and alerts requested or configured by the authorized user
-- Other personal AI assistant responses requested by the authorized user
+- Reminders requested by the owner
+- Notifications when monitored conditions change
+- Operational alerts from configured integrations
+- Etsy order or business activity notifications
+- Printer or automation status notifications
+- Notifications when requested tasks complete
+- Other event-driven notifications configured by the owner
 
-Cooper does not send advertising, promotional messages, lead-generation messages, or marketing campaigns.
+Cooper does not send advertising, promotional messages, lead-generation messages, or third-party marketing messages.
 
-## Opt Out
+Message frequency varies based on requested reminders and system activity. Message and data rates may apply.
 
-The authorized user may reply STOP to stop receiving SMS messages.
+## Opt Out and Help
 
-The user may reply HELP for assistance.
+The recipient may reply STOP at any time to stop receiving SMS messages.
 
-## Privacy
+The recipient may reply HELP for assistance.
 
-Mobile information and SMS consent information are not sold or shared with third parties for marketing or promotional purposes.
+## Privacy and Terms
 
-See the Cooper Privacy Policy for additional information.
+Mobile information and SMS consent information are not sold or shared with third parties or affiliates for marketing or promotional purposes.
+
+Privacy Policy:
+https://fischerjason.github.io/cooper-sms/privacy.html
+
+Terms and Conditions:
+https://fischerjason.github.io/cooper-sms/terms.html

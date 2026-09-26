@@ -24,6 +24,6 @@ SMS messages are sent only to individuals who have explicitly consented to recei
 
 Information collected through SMS messaging is used only to operate, maintain, secure, and provide the requested messaging functionality.
 
-## Contact
+## Terms & Conditions
 
-Questions regarding this Privacy Policy may be submitted through the contact information associated with this website.
+For information about the terms governing SMS messaging, see the [Terms & Conditions](https://fischerjason.github.io/jason-fischer-sms/terms.html).
